@@ -1,0 +1,25 @@
+{
+  "name": "@sberid/js-sdk",
+  "version": "3.6.1",
+  "description": "Javascript SDK для партнеров Сбер ID, упрощающая подключение SberbankID на сайте.",
+  "main": "dist/sberid-sdk.production.js",
+  "module": "dist/sberid-sdk.es.js",
+  "typings": "dist/typings/index.d.ts",
+  "keywords": [
+    "sberid",
+    "sdk",
+    "browser",
+    "incognito"
+  ],
+  "files": [
+    "dist",
+    "LICENSE.txt",
+    "CHANGELOG.md",
+    "README.md"
+  ],
+  "author": "Сбер ID",
+  "contributors": [
+    "Nabokov Sergey <SANabokov@sberbank.ru>"
+  ],
+  "license": "Sber Public License at-nc-sa v.2"
+}
